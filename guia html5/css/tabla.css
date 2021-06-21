@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+body{
+    margin: 50px;
+    border: black;
+}
+
+header{
+    border: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+div{
+    width: 50%;
+    background-color: chartreuse;
+}
+table{
+    width: 100%;
+    border: black 3px solid;
+}
+
+#tabla{
+    width: 100%;
+    background-color: chartreuse;
+}
+
+th{
+    border: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+}
